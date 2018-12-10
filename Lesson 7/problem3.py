@@ -1,0 +1,7 @@
+print("-"*1000)
+print('100th Birthday Program: by Xavier Souffront')
+print('Descriptipn: This program asks you for your current age and tells you the year that you will turn 100. ')
+age=input('What is your age today: ')
+sum+(100-age)
+sum=(2018+sum)
+print('You will turn 100 in the year '+ int(sum)+'!')
